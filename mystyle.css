@@ -1,0 +1,41 @@
+/*Selector {
+	Property: value;
+}*/
+
+body{
+	background-color: lightgrey;
+	font-family: impact;
+	letter-spacing: 2.3px;
+}
+
+h3{
+	font-weight: bold;
+	font-size: 20px
+	letter-spacing:2px;
+}
+
+h1 {
+	text-align: center;
+	background-color: grey;
+	color: black;
+	font-size: 55px;
+	cursor: pointer;
+	border: 8px solid black;
+}
+
+h2 {
+	background-color: grey;
+	color: black;
+	border: 8px solid black;
+	text-align: center;
+	cursor: pointer;
+	font-size: 40px
+}
+
+ul{
+	list-style: none;
+	display: inline-block;
+}
+
+
+

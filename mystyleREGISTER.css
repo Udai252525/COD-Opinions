@@ -1,0 +1,18 @@
+body{
+	background-color: lightgrey;
+	letter-spacing: 2.3px;
+}
+
+
+h1{
+	background-color: grey;
+	color: black;
+	border: 8px solid black;
+	text-align: center;
+	cursor: pointer;
+	font-family: impact;
+	font-size: 40px
+
+h5{
+	font-family: verdana;
+}
